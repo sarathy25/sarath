@@ -8,6 +8,7 @@ public class Employee extends Company {
 	}
 Employee(int id){
 	System.out.println("id is :"+id);
+	System.out.println("12345");
 }
 public static void main(String[] args) {
 	Employee e = new Employee();
